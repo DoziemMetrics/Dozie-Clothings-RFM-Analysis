@@ -1,6 +1,6 @@
 # Dozie Clothings RFM Analysis
 
-![Dozie Clothings Logo](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fid%2F831656828%2Fphoto%2Fluxury-clothing-store-for-men.jpg%3Fs%3D612x612%26w%3D0%26k%3D20%26c%3Dr9vD1Nvv_W0uco8RN7jPKx2HJ7zxj3ISrnbP5XhGszg%3D&tbnid=qfdcRj9jL1XkhM&vet=12ahUKEwjZ89ezl7OAAxUhpicCHSt9DGIQMyheegUIARDYAQ..i&imgrefurl=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fclothing-store-interior&docid=3YnZx68PLH-GPM&w=612&h=408&q=clothing%20store&ved=2ahUKEwjZ89ezl7OAAxUhpicCHSt9DGIQMyheegUIARDYAQ)
+![Dozie Clothings Logo](https://github.com/DoziemMetrics/Dozie-Clothings-RFM-Analysis/blob/main/images.jpeg)
 
 ## Overview
 
